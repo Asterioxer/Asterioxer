@@ -2,43 +2,13 @@
 
 <div align="center">
 
-```
-                                                          .
-                  .                  ,. .                     .
-                                   .   .                         .
-                                  .((#%###(((/,
-                                .*/((#%#%##(((//**
-                                */((##%#####(((/**.
-                               *///,,,.,*//*.     *
-                             . /(*./  *,(%(.,. .  **
-                             / (##%%%%###%#/(#(/((//.
-                             /*((####//#((/*//(##(//.
-                              ,,*//////**/..,*//**,*,
-                               ,,,//,/(((((**,.,,.
-                                , */(////**,,,,..
-                                     ///*,/**,   *
-                           .      ,%            (/
-                 .                 ((&%      .((*.         ..
-                                   %(%%*   *%#*#(/                 .
-                                   %.*// ,   #,%&.
-                                   &#&%%   (#&&&&
-                                   /%/% .   /&%%#
-                                   ((&, ,    %#&                         .
-                                   .&%.      #%%
-          .                         #.      .&%
-                                    %        %*
-                                    /        (
+<div align="center">
 
-soham@asterioxer
-----------------
-OS: DevOps / DevSecOps / ML Engineer
-Host: Building & Breaking Things Since 2023
-Kernel: SWE + Security + Machine Learning
-Uptime: Always shipping, occasionally sleeping
-Languages: Python, C, HTML
-Focus: SAST tooling, Malware Analysis, ML pipelines
-Location: India (UTC +05:30)
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg">
+  <img alt="Soham Mukherjee's GitHub profile" src="dark_mode.svg">
+</picture>
 
 # Hi, I'm Soham 👋
 
