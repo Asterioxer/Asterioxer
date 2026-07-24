@@ -1,16 +1,16 @@
 <div align="center">
 
+<div align="center">
+
 ```
-                                            soham@asterioxer
-                                            ----------------
-                                                          .                     OS: DevOps / DevSecOps / ML Engineer
-                  .                  ,. .                     .                Host: Building & Breaking Things Since 2023
-                                   .   .                         .             Kernel: SWE + Security + Machine Learning
-                                  .((#%###(((/,                               Uptime: Always shipping, occasionally sleeping
+                                                          .
+                  .                  ,. .                     .
+                                   .   .                         .
+                                  .((#%###(((/,
                                 .*/((#%#%##(((//**
-                                */((##%#####(((/**.                           Languages: Python, C, HTML
-                               *///,,,.,*//*.     *                           Focus: SAST tooling, Malware Analysis, ML pipelines
-                             . /(*./  *,(%(.,. .  **                          Location: India (UTC +05:30)
+                                */((##%#####(((/**.
+                               *///,,,.,*//*.     *
+                             . /(*./  *,(%(.,. .  **
                              / (##%%%%###%#/(#(/((//.
                              /*((####//#((/*//(##(//.
                               ,,*//////**/..,*//**,*,
@@ -28,6 +28,16 @@
           .                         #.      .&%
                                     %        %*
                                     /        (
+
+soham@asterioxer
+----------------
+OS: DevOps / DevSecOps / ML Engineer
+Host: Building & Breaking Things Since 2023
+Kernel: SWE + Security + Machine Learning
+Uptime: Always shipping, occasionally sleeping
+Languages: Python, C, HTML
+Focus: SAST tooling, Malware Analysis, ML pipelines
+Location: India (UTC +05:30)
 ```
 
 # Hi, I'm Soham 👋
