@@ -1,20 +1,27 @@
 <div align="center">
 
+<table>
+<tr>
+<td width="220" align="center">
+<img src="https://raw.githubusercontent.com/Asterioxer/Asterioxer/main/profile.png" width="200" style="border-radius:50%" />
+</td>
+<td>
+
 ```
-                                soham@asterioxer
-                                ----------------
-        ▄▄▄▄▄▄▄▄▄▄▄             OS: DevOps / DevSecOps / ML Engineer
-    ▄▄█████████████▄▄          Host: Building & Breaking Things Since 2023
-  ▄███████████████████▄        Kernel: SWE + Security + Machine Learning
- ████████▀▀▀▀▀▀▀████████       Uptime: Always shipping, occasionally sleeping
-███████        ███████
-███████        ███████         Languages: Python, C, HTML
-████████▄▄▄▄▄▄▄████████        Focus: SAST tooling, Malware Analysis, ML pipelines
- █████████████████████         Location: India (UTC +05:30)
-  ▀███████████████▀
-    ▀▀█████████▀▀
-        ▀▀▀▀▀▀▀
+soham@asterioxer
+----------------
+OS: DevOps / DevSecOps / ML Engineer
+Host: Building & Breaking Things Since 2023
+Kernel: SWE + Security + Machine Learning
+Uptime: Always shipping, occasionally sleeping
+Languages: Python, C, HTML
+Focus: SAST tooling, Malware Analysis, ML pipelines
+Location: India (UTC +05:30)
 ```
+
+</td>
+</tr>
+</table>
 
 # Hi, I'm Soham 👋
 
