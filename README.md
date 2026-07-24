@@ -125,8 +125,6 @@ A clean, responsive landing page build.
 </tr>
 </table>
 
-> 💡 *Pin these four (swap out the template repo and generic assessment repo on your profile page) so this table matches what visitors see first.*
-
 ---
 
 ### 📊 GitHub Stats
